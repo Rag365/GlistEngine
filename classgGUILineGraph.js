@@ -1,0 +1,25 @@
+var classgGUILineGraph =
+[
+    [ "gGUILineGraph", "classgGUILineGraph.html#a42822c79f8e7c4b21b20ac521a79f1bf", null ],
+    [ "~gGUILineGraph", "classgGUILineGraph.html#a2ac847f8d37872e30047cf75f1a17959", null ],
+    [ "addData", "classgGUILineGraph.html#a22b9721365a054014ecd71d01da5e414", null ],
+    [ "addLine", "classgGUILineGraph.html#a9915d1923721446eaee7f5eb4d8bc143", null ],
+    [ "addPointToLine", "classgGUILineGraph.html#a6df73078a6e895a36e015514a7f2ba8c", null ],
+    [ "clear", "classgGUILineGraph.html#a9ac7690c53900da59937637d907cae9d", null ],
+    [ "enablePoints", "classgGUILineGraph.html#a8b91871d2e23e0552c961cac26e2b07d", null ],
+    [ "getLineColor", "classgGUILineGraph.html#ade386621d3080394dc924e35459ef328", null ],
+    [ "getPointNum", "classgGUILineGraph.html#a4cda8291a9efbc51340df5a4d6e1a870", null ],
+    [ "getPointXValue", "classgGUILineGraph.html#af956aa11c1f040a418cdd87d850d4513", null ],
+    [ "getPointYValue", "classgGUILineGraph.html#a958653d1bed0cbf7f3e8966f7861b262", null ],
+    [ "removeFirstPointsFromLine", "classgGUILineGraph.html#a48d06470d7f209d0c37445b0512fb5ba", null ],
+    [ "set", "classgGUILineGraph.html#ae1138827d400265dacc86b3199493b96", null ],
+    [ "setLabelCountX", "classgGUILineGraph.html#aa7c968244d053d9be6e963991d1bc6ef", null ],
+    [ "setLabelCountY", "classgGUILineGraph.html#a375ce9b0f75a373b8039d01adef007a1", null ],
+    [ "setLineColor", "classgGUILineGraph.html#a576036f6e1289c21819f6663f29708f0", null ],
+    [ "setMaxX", "classgGUILineGraph.html#a1ac80fbd9140049b02726b03f68bb2b4", null ],
+    [ "setMaxY", "classgGUILineGraph.html#a4eebdd06294e4dfa2840494a2dd8b0ba", null ],
+    [ "setMinX", "classgGUILineGraph.html#a07232ac919d1738cfd805bcbe2ab7e20", null ],
+    [ "setMinY", "classgGUILineGraph.html#a58eed63d42c9d207a25e18854e89fa5b", null ],
+    [ "setPointValues", "classgGUILineGraph.html#ae8a421bb6450a9be2b4bd897a5146346", null ],
+    [ "setPointValues", "classgGUILineGraph.html#a9e57dabc2d1ec39d2ab715e9eb93a225", null ]
+];
